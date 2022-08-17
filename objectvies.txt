@@ -34,3 +34,9 @@ Associated risks for the above case :
 2.Incorrect or incomplete started requirement.
 3.Changes in the requirement during development.
 
+User stroies:
+As an library manager ,I want to update information of books on bookshelf in system so that i can manage books conveniently.
+Aceptance criteria:
+1.Information of book on bookshelf can be added in detail.
+2.Information of books can be removed from the system.
+3. New books can be added on bookshelf.
